@@ -1,2 +1,12 @@
-# student-management-system
-Beginner project using python and MySQL
+Student Management System
+
+A beginner-level Python console project to manage student records.
+
+Features:
+- Add student
+- View students
+- Delete student
+
+Technologies:
+- Python
+ 
